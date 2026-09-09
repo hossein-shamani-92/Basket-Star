@@ -10,6 +10,12 @@ The player controls a basket horizontally using the Left and Right Arrow keys. S
 
 The game ends when the score reaches `-10`.
 
+## Project Preview
+
+### Gameplay
+
+![Gameplay](assets/preview/game_play.png)
+
 ## Technologies
 
 * Python
